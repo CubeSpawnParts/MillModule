@@ -1,0 +1,27 @@
+G90 G17 G21
+M3 S300
+
+G0 Z5.0000 
+
+G0 X0.0000 Y0.0000
+G0 Z-21.500 
+( 50.0000x34.0000 rectangular Pocket at 0.0000,0.0000 )
+( Parallel Zero Path )
+G1 G90 Z-21.700 F45.00 (Move to Z Zero for incremental Z pathes )
+G1 G91 Z-1.000 F45.00 
+G1 G90 X18.700 Y10.700 F250
+G1 X-18.700 
+G1 Y-16.870 
+G1 X18.700 
+G1 Y10.700 
+G1 G90 X0.0000 Y0.0000 
+
+G0 Z5.0000
+ 
+G0 X0.000 Y75.000
+
+M5
+M30
+%
+
+

@@ -1,0 +1,127 @@
+G90 G21 G49
+M3 S300
+G0 Z5.000
+G0 X125.000 Y50.000
+(Start Hole)
+G0 X125.234 Y12.267
+G0 Z0.500
+G1 Z-1.600 F250
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X175.234
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X225.234
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X222.488 Y50.000
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y127.510
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X299.998
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X337.967 Y125.000
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y175.000
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y225.000
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X299.998 Y222.490
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X222.488
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X222.488 Y222.490
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X127.512
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X50.000
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X12.500 Y225.000
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y175.000
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y125.000
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X50.000 Y127.513
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X127.510
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(Start Hole)
+G0 Y50.000
+G0 Z0.500
+G1 Z-1.600
+G0 Z3.000
+(End Hole)
+G0 X125.000 Y50.000 Z5.000
+M5
+M30
+%

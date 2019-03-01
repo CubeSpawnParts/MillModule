@@ -1,0 +1,92 @@
+G90 G21 G49
+M3 S300
+G0 X0.000 Y356.000
+G0 Z5.000
+(Left Edge - MIND THE CLAMPS!!)
+(Start Second Row)
+(Start Hole)
+G0 X400.000 Y293.189
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X340.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X280.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X220.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X160.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X100.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X40.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(End Second Row)
+(Start Third Row)
+(Start Hole)
+G0 Y98.189
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X100.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X160.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X220.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X280.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X340.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(End Third Row)
+G0 Y293.189
+G0 X0.000 Y356.000
+M5
+M30
+%

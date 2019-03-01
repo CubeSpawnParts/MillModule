@@ -1,0 +1,167 @@
+G90 G21 G49
+M3 S300
+G0 Z5.000
+(Left Edge - MIND THE CLAMPS!!)
+(Start First Row)
+G0 X0.000 Y356.000
+(Start Hole)
+G0 X50.000 Y343.000
+G0 Z0.500
+G1 Z-0.810 F250
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X100.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X150.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X200.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X250.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X300.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X350.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X400.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X425.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(End First Row)
+(Start Second Row)
+(Start Hole)
+G0 X400.000 Y293.189
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X340.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X280.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X220.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X160.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X100.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X40.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(End Second Row)
+(Start Third Row)
+(Start Hole)
+G0 Y98.189
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X100.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X160.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X220.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X280.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X340.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(End Third Row)
+(Begin 3 Random RS Holes)
+(Start Hole)
+G0 X382.000 Y93.750
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y122.750
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y225.479
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(End 3 Random RS Holes)
+G0 X0.000 Y356.000
+M5
+M30
+%

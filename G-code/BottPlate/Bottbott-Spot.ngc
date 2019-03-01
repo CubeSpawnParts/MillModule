@@ -1,0 +1,81 @@
+G90 G21 G49
+M3 S300
+G0 Z5.000
+G0 X10.000 Y10.000
+(Start First Row)
+(Start Hole)
+G0 X22.500 Y25.000
+G0 Z0.500
+G1 Z-0.810 F250
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y75.500
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y125.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X91.500 Y132.512
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X169.100
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y55.000
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X263.988
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y132.510 
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X341.498 
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 X410.500 Y125.000 
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y75.000 
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+(Start Hole)
+G0 Y25.000 
+G0 Z0.500
+G1 Z-0.810
+G0 Z3.000
+(End Hole)
+G0 X10.000 Y10.000
+M5
+M30
+%
